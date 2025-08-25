@@ -12,7 +12,7 @@ You're monitoring a firmware directory that rarely updates (maybe once a year). 
 
 Once set up, **it just runs once per week via GitHub Actions** and tells you only if something changed.
 
-You’ll likely forget this tool even exists — and that’s by design.
+You’ll likely forget this tool even exists — and that’s by design!
 
 ---
 
